@@ -16,7 +16,7 @@ Also display a parking lot score that factors in number of reviews and ratings, 
 
 This project was bootstrapped with [Next](https://nextjs.org/). A framework built ontop of [React](https://reactjs.org/).
 
-For development, you will only need Node.js and node package manager (npm), installed in your environement.
+For development, you will only need Node.js and node package manager (npm), installed in your environment.
 
 ### Node
 - #### Node installation on Windows
@@ -41,7 +41,7 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
 	brew install node
 	```
 
-	Alternatives listed on the [offical Node.js website](https://nodejs.org/en/download/package-manager/#macos)
+	Alternatives listed on the [official Node.js website](https://nodejs.org/en/download/package-manager/#macos)
 
 
 - #### Other Operating Systems
@@ -75,5 +75,5 @@ Here's an example `.env.local` file:
 YELP_API=myyelpkey
 ```
 
-## Aknowledgements:
+## Acknowledgments:
 Part of this README was written by [Igor Mandello](https://github.com/Igormandello) from the gist [Node.js project readme template](https://gist.github.com/Igormandello/57d57ee9a9f32a5414009cbe191db432)
