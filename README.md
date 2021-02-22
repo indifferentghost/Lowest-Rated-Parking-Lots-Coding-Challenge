@@ -74,3 +74,6 @@ Here's an example `.env.local` file:
 ```.env
 YELP_API=myyelpkey
 ```
+
+## Aknowledgements:
+Part of this README was written by [Igor Mandello](https://github.com/Igormandello) from the gist [Node.js project readme template](https://gist.github.com/Igormandello/57d57ee9a9f32a5414009cbe191db432)
